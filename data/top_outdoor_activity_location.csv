@@ -1,0 +1,232 @@
+,rank,city,state
+0,1,San Francisco,California
+1,2,Oakland,California
+2,3,Portland,Oregon
+3,4,Irvine,California
+4,5,Berkeley,California
+5,6,Santa Rosa,California
+6,7,Sunnyvale,California
+7,8,Kent,Washington
+8,9,Cambridge,Massachusetts
+9,10,Oxnard,California
+10,11,Boston,Massachusetts
+11,12,San Jose,California
+12,13,Boulder,Colorado
+13,14,Seattle,Washington
+14,15,Costa Mesa,California
+15,16,Torrance,California
+16,17,Hayward,California
+17,18,Salt Lake City,Utah
+18,19,Santa Ana,California
+19,20,Provo,Utah
+20,21,Thousand Oaks,California
+21,22,Los Angeles,California
+22,23,Long Beach,California
+23,24,Salinas,California
+24,25,Anaheim,California
+25,26,Orange,California
+26,27,Burbank,California
+27,28,Minneapolis,Minnesota
+28,29,Bellevue,Washington
+29,30,New York City,New York
+30,31,Denver,Colorado
+31,32,Reno,Nevada
+32,33,Fort Collins,Colorado
+33,34,Vallejo,California
+34,35,Jersey City,New Jersey
+35,36,Santa Clara,California
+36,37,Manchester,New Hampshire
+37,38,Madison,Wisconsin
+38,39,Lakewood,Colorado
+39,40,Naperville,Illinois
+40,41,Alexandria,Virginia
+41,42,"Washington, D.C.",District of Columbia
+42,43,Vancouver,Washington
+43,44,Riverside,California
+44,45,Ann Arbor,Michigan
+45,46,Worcester,Massachusetts
+46,47,Grand Rapids,Michigan
+47,48,Spokane,Washington
+48,49,Tacoma,Washington
+49,50,Fairfield,California
+50,51,Hartford,Connecticut
+51,52,Milwaukee,Wisconsin
+52,53,Roseville,California
+53,54,Santa Maria,California
+54,55,Temecula,California
+55,56,Springfield,Massachusetts
+56,57,New Haven,Connecticut
+57,58,Elgin,Illinois
+58,59,Providence,Rhode Island
+59,60,Philadelphia,Pennsylvania
+60,61,Bridgeport,Connecticut
+61,62,Cincinnati,Ohio
+62,63,San Diego,California
+63,64,Boise,Idaho
+64,65,Albuquerque,New Mexico
+65,66,Corona,California
+66,67,Cape Coral,Florida
+67,68,Ventura,California
+68,69,Ontario,California
+69,70,Chicago,Illinois
+70,71,Clearwater,Florida
+71,72,Arlington,Virginia
+72,73,Virginia Beach,Virginia
+73,74,Akron,Ohio
+74,75,Salem,Oregon
+75,76,Stockton,California
+76,77,Buffalo,New York
+77,78,Sacramento,California
+78,79,Gainesville,Florida
+79,80,St. Paul,Minnesota
+80,81,Pasadena,California
+81,82,Glendale,California
+82,83,Honolulu,Hawaii
+83,84,San Bernardino,California
+84,85,Stamford,Connecticut
+85,86,Newark,New Jersey
+86,87,Rochester,Minnesota
+87,88,Tallahassee,Florida
+88,89,Modesto,California
+89,90,Syracuse,New York
+90,91,Aurora,Colorado
+91,92,Chattanooga,Tennessee
+92,93,Omaha,Nebraska
+93,94,Fort Lauderdale,Florida
+94,95,Allentown,Pennsylvania
+95,96,Orlando,Florida
+96,97,Hampton,Virginia
+97,98,Pompano Beach,Florida
+98,99,Eugene,Oregon
+99,100,Baltimore,Maryland
+100,101,Miami,Florida
+101,102,Tampa,Florida
+102,103,St. Petersburg,Florida
+103,104,Atlanta,Georgia
+104,105,Richmond,Virginia
+105,106,Rockford,Illinois
+106,107,Cleveland,Ohio
+107,108,Rochester,New York
+108,109,Erie,Pennsylvania
+109,110,Carlsbad,California
+110,111,Victorville,California
+111,112,Port St. Lucie,Florida
+112,113,Sandy Springs,Georgia
+113,114,Henderson,Nevada
+114,115,Charleston,South Carolina
+115,116,Columbia,Maryland
+116,117,Columbus,Ohio
+117,118,Tucson,Arizona
+118,119,Lansing,Michigan
+119,120,Wilmington,North Carolina
+120,121,St. Louis,Missouri
+121,122,Pittsburgh,Pennsylvania
+122,123,South Bend,Indiana
+123,124,Norfolk,Virginia
+124,125,Austin,Texas
+125,126,Newport News,Virginia
+126,127,Springfield,Missouri
+127,128,Nashville,Tennessee
+128,129,Green Bay,Wisconsin
+129,130,Winston-Salem,North Carolina
+130,131,Palm Bay,Florida
+131,132,Paradise,Nevada
+132,133,Colorado Springs,Colorado
+133,134,High Point,North Carolina
+134,135,Raleigh,North Carolina
+135,136,Charlotte,North Carolina
+136,137,Round Rock,Texas
+137,138,College Station,Texas
+138,139,Tempe,Arizona
+139,140,Lincoln,Nebraska
+140,141,Mesa,Arizona
+141,142,Davenport,Iowa
+142,143,Columbia,Missouri
+143,144,Toledo,Ohio
+144,145,Athens,Georgia
+145,146,Pueblo,Colorado
+146,147,Dallas,Texas
+147,148,Louisville,Kentucky
+148,149,Phoenix,Arizona
+149,150,Dayton,Ohio
+150,151,Las Vegas,Nevada
+151,152,Detroit,Michigan
+152,153,Sioux Falls,South Dakota
+153,154,The Woodlands,Texas
+154,155,Greensboro,North Carolina
+155,156,Houston,Texas
+156,157,Indianapolis,Indiana
+157,158,Huntsville,Alabama
+158,159,Lakeland,Florida
+159,160,Warren,Michigan
+160,161,Durham,North Carolina
+161,162,Richardson,Texas
+162,163,Little Rock,Arkansas
+163,164,Kansas City,Missouri
+164,165,Wichita,Kansas
+165,166,Mobile,Alabama
+166,167,Evansville,Indiana
+167,168,Scottsdale,Arizona
+168,169,Topeka,Kansas
+169,170,Fargo,North Dakota
+170,171,Lafayette,Louisiana
+171,172,Everett,Washington
+172,173,Billings,Montana
+173,174,Lexington,Kentucky
+174,175,Tulsa,Oklahoma
+175,176,Beaumont,Texas
+176,177,Las Cruces,New Mexico
+177,178,Knoxville,Tennessee
+178,179,Fayetteville,North Carolina
+179,180,Columbia,South Carolina
+180,181,Overland Park,Kansas
+181,182,Waco,Texas
+182,183,Tyler,Texas
+183,184,Odessa,Texas
+184,185,Jacksonville,Florida
+185,186,Memphis,Tennessee
+186,187,Peoria,Illinois
+187,188,Fresno,California
+188,189,Midland,Texas
+189,190,Jackson,Mississippi
+190,191,Murfreesboro,Tennessee
+191,192,Visalia,California
+192,193,West Palm Beach,Florida
+193,194,Des Moines,Iowa
+194,195,Bakersfield,California
+195,196,Anchorage,Alaska
+196,197,Savannah,Georgia
+197,198,Baton Rouge,Louisiana
+198,199,New Orleans,Louisiana
+199,200,North Charleston,South Carolina
+200,201,Plano,Texas
+201,202,Denton,Texas
+202,203,Columbus,Georgia
+203,204,San Antonio,Texas
+204,205,Clarksville,Tennessee
+205,206,Arlington,Texas
+206,207,Metairie,Louisiana
+207,208,Birmingham,Alabama
+208,209,Kansas City,Kansas
+209,210,Cedar Rapids,Iowa
+210,211,Lubbock,Texas
+211,212,Fort Wayne,Indiana
+212,213,Montgomery,Alabama
+213,214,Oklahoma City,Oklahoma
+214,215,Augusta,Georgia
+215,216,Killeen,Texas
+216,217,Springfield,Illinois
+217,218,Shreveport,Louisiana
+218,219,Brownsville,Texas
+219,220,Irving,Texas
+220,221,Wichita Falls,Texas
+221,222,El Paso,Texas
+222,223,Amarillo,Texas
+223,224,Fort Worth,Texas
+224,225,Corpus Christi,Texas
+225,226,McAllen,Texas
+226,227,Abilene,Texas
+227,228,Laredo,Texas
+228,229,Carolina,Puerto Rico
+229,230,San Juan,Puerto Rico
+230,231,Ponce,Puerto Rico
